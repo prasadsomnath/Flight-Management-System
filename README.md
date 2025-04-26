@@ -12,13 +12,15 @@ managing all flight and user data efficiently.
 - Git & GitHub
 
 📚 Features
-- User Registration
-- Flight Search based on source and destination
+- User Registration:
+  ![Flight Management Screenshot](images/user_register_screenshot.jpeg)
+
+- Check User ID existence
+- Flight Search based on departure and destination
 - Flight Booking for registered users
 - Cancel Flight Booking
 - View Bookings made by the user
-- Check User ID existence
--Exit Application
+- Exit Application
 
 🗄️ Database Structure
 - users table: Stores user details (user_id, name, email, number)
