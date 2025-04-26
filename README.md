@@ -28,8 +28,8 @@ managing all flight and user data efficiently.
 - booking table: Stores booking records (booking_id, user_id, flight_id, seat_number,status)
 
 🚀 How to Run
-Clone the repository:
-git clone https://github.com/prasadsomnath/Flight-Management-System.git
+- Clone the repository:
+- git clone https://github.com/prasadsomnath/Flight-Management-System.git
 
 ## Set up the MySQL database:
 create database with name my_db.
@@ -40,19 +40,20 @@ Update your database credentials in the Java code.
 javac app.java
 java Main
 
-📂 Project Structur
-Flight-Management-System/
-├── src/
-     └── Main
-           └── java
-                 └── com.skyllx(package)
-                           └──app.java
+📂 Project Structur:
+
+- Flight-Management-System
+  -  ├── src/
+    -      └── Main
+      -         └── java
+        -             └── com.skyllx(package)
+          -                   └──app.java
 ├── README.md
 └── schema.sql 
 
-📢 Notes
-Ensure you have MySQL server running before executing the application.
-JDBC Driver (Connector/J) must be configured in your project setup.
+📢 Notes:
+- Ensure you have MySQL server running before executing the application.
+- JDBC Driver (Connector/J) must be configured in your project setup.
 
-📄 License
+📄 License :
 This project is for educational purposes only.
