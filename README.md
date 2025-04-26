@@ -12,7 +12,7 @@ managing all flight and user data efficiently.
 - Git & GitHub
 
 📚 Features
--1 ## User Registration:
+- ## User Registration:
    - it's help a new user to register data in to a system
   - when user type the 1 number it will show the following result.
   ![ new user register](images/user_resgister_screenshot.jpeg)
