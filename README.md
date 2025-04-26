@@ -12,7 +12,7 @@ managing all flight and user data efficiently.
 - Git & GitHub
 
 📚 Features
-- ## User Registration:
+-1 ## User Registration:
    - it's help a new user to register data in to a system
   - when user type the 1 number it will show the following result.
   ![ new user register](images/user_resgister_screenshot.jpeg)
@@ -21,15 +21,15 @@ managing all flight and user data efficiently.
  -  This is helpful for existing user and new user to check there unique id
   ![use_id checking](images/user_id_checking_screenshot.jpeg)
   
-  # if user giving a wrong email or  number then it shows this type of error
+  ## if user giving a wrong email or  number then it shows this type of error
    ![error image](images/wrong_email_type_in_uid_checking.jpeg)
   
 - ## Flight Search based on departure and destination:
     - it  is basicaly contain flight detiles suh as flight_id, departure,destination, no_of_seats, price.
     ![searching flights](images/serching_flight_screenshot.jpeg)
-  # after booking the flight it will decrese the no-of_seats.
+  ## after booking the flight it will decrese the no-of_seats.
    ![ update available seats](images/after_booking_viewbooking_status_no_of_seats.jpeg)
-  # after cancel the flight it will increse the no_of_seats.
+  ## after cancel the flight it will increse the no_of_seats.
    ![searching flights](images/serching_flight_screenshot.jpeg)
   
 - ## Flight Booking for registered users:
@@ -41,9 +41,9 @@ managing all flight and user data efficiently.
     ![cancel flight](images/cancel_booking_screenshot.jpeg)
   
 - ## View Bookings made by the user:
-  # status: conformed
+  ## status: conformed
     ![ view after booking](images/view_booking_screenshot.jpeg)
-  # after cancel the flight the status will be changed to canceld
+  ## after cancel the flight the status will be changed to canceld
    ![ view after cancel](images/after_cancel_view_booking.jpeg)
   
 - ## Exit Application:
