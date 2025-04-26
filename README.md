@@ -13,7 +13,7 @@ managing all flight and user data efficiently.
 
 📚 Features
 - User Registration:
-  ![Flight Management Screenshot](images/user_register_screenshot.jpeg)
+  ![Flight Management Screenshot](images/user_resgister_screenshot.jpeg)
 
 - Check User ID existence
 - Flight Search based on departure and destination
